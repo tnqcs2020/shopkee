@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510344077478",
+    "project_id": "flutter-firebase-72199",
+    "storage_bucket": "flutter-firebase-72199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510344077478:android:c50d60869a944a4e489467",
+        "android_client_info": {
+          "package_name": "com.example.shopkee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510344077478-n1v30chl5fhbgikd4olmc0d2345icvgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHJ_SrTlka6UJ9OhNtJrL5K-L0ueSuk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510344077478-n1v30chl5fhbgikd4olmc0d2345icvgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
